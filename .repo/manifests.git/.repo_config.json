@@ -1,0 +1,20 @@
+{
+  "core.filemode": [
+    "true"
+  ], 
+  "core.repositoryformatversion": [
+    "0"
+  ], 
+  "remote.origin.url": [
+    "ssh://mens@120.132.115.236:29418/ZM2/manifest"
+  ], 
+  "branch.default.merge": [
+    "refs/heads/develop"
+  ], 
+  "branch.default.remote": [
+    "origin"
+  ], 
+  "remote.origin.fetch": [
+    "+refs/heads/*:refs/remotes/origin/*"
+  ]
+}
